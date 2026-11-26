@@ -1,0 +1,6 @@
+id=tmp_artifact_cleaner
+name=Temp Root Artifact Cleaner
+version=v1.0
+versionCode=1
+author=winterballs
+description=Automatically removes ksu-helper, ksu-payload, ksud, temp_su and libcve43499root.so from /data/local/tmp upon root startup.
